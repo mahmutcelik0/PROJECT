@@ -1,7 +1,7 @@
 # ⭐STUDENT REGISTRATION
 ⚠️JAVA, JAVAFX LIBRARY, FXML and MYSQL
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0eff06b-40f7-4c14-8878-8779cbaab116/Untitled.png)
+![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/FIRST)
 
 ## ⚠️PROBLEMS
 
@@ -24,9 +24,9 @@ module com.example.sjsj {
 
 STEP 2- OPEN MODULE SETTINGS → MODULES → ADD JARs or DIRECTORIES → Add MySQL java connector jar
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/176acaf0-8979-47e0-bf16-a5dd50c3397c/Untitled.png)
+![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/SEONCD)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13963a4a-bd1a-406e-abab-3e63cb444554/Untitled.png)
+![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/THIRD)
 
 STEP 3- IMPORT JAVA SQL TO OUR CLASS THAT MAKES CONNECTION BETWEEN PROJECT AND DATABASE
 
@@ -121,4 +121,4 @@ public class Student {
 }
 ```
 
-![This is an image](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/QQQQ.png)
+![This is an image](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/FOURTH)
