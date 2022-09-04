@@ -121,4 +121,4 @@ public class Student {
 }
 ```
 
-![This is an image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d36337d9-154e-46df-9471-4e2cbf28fb87/Untitled.png)
+![This is an image](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/QQQQ.png)
