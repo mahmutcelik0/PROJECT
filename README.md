@@ -24,7 +24,7 @@ module com.example.sjsj {
 
 STEP 2- OPEN MODULE SETTINGS → MODULES → ADD JARs or DIRECTORIES → Add MySQL java connector jar
 
-![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/SEONCD)
+![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/SECOND)
 
 ![Untitled](https://github.com/mahmutcelik0/PROJECT/blob/main/IMAGES/THIRD)
 
